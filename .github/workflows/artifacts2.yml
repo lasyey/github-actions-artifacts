@@ -1,4 +1,4 @@
-ame: Our Artifacts 2
+name: Our Artifacts 2
 on: push
 jobs:
   up:
